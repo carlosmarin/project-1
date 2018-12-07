@@ -1,7 +1,7 @@
 # Project 1
 
 Team # ...
-Dexter
+* Dexter
 
 
 Correlation of something with data from ...
